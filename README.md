@@ -73,10 +73,10 @@ Contributions welcome. By submitting a pull request you agree your contribution 
 
 ## Contact
 
-**Project Lead:** [Your Name]
-**Email:** [your@email.com]
+**Project Lead:** Jared Kusner
+**Email:** 
 **Location:** Washington, DC
 
 ---
 
-*Copyright © 2026 [Your Name]. All rights reserved under the licenses stated above.*
+*Copyright © 2026 Jared Kusner. All rights reserved under the licenses stated above.*
